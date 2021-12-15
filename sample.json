@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Golden Globes: Belfast and The Power of the Dog lead field for troubled awards",
+        "description": "Sir Kenneth Branagh's Belfast and The Power of the Dog, starring Benedict Cumberbatch, lead the race.",
+        "url": "http://www.bbc.co.uk/news/entertainment-arts-59635607",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/174F5/production/_122077459_tpotd_ks_0001.jpg",
+        "publishedAt": "2021-12-13T15:22:21.2882709Z",
+        "content": "Image source, KIRSTY GRIFFIN/NETFLIX\r\nImage caption, Benedict Cumberbatch plays a menacing cowboy in The Power of the Dog\r\nSir Kenneth Branagh's autobiographical film Belfast and The Power of the Dog… [+4488 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC Sport",
+        "title": "Chelsea play Lille in Champions League",
+        "description": "Holders Chelsea will play Ligue 1 side Lille in the Champions League last 16 after the draw for the knockout stages took place for a second time.",
+        "url": "http://www.bbc.co.uk/sport/football/59637671",
+        "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/176D5/production/_122075959_chelsea-index.jpg",
+        "publishedAt": "2021-12-13T14:52:41.5650701Z",
+        "content": "Chelsea beat fellow Premier League side Manchester City in last season's Champions League final\r\nHolders Chelsea will play French side Lille in the Champions League last 16 after the draw for the kno… [+2292 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "US tornadoes: Rebuilding lives from 'hell on Earth'",
+        "description": "Residents in the US state are sifting through the rubble that was once a town.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-59632356",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/125C7/production/_122070257_p0b9nq21.jpg",
+        "publishedAt": "2021-12-13T14:52:20.8358537Z",
+        "content": "The people of Kentucky are working to rebuild their lives after tornadoes devastated the US state.\r\nOne resident, surrounded by rubble, described the scene as \"the definition of hell on Earth\".\r\nIn t… [+110 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Kentucky tornadoes: Race to find missing in flattened US towns",
+        "description": "Search efforts continue as families await news of loved ones following Kentucky's deadly tornadoes.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-59637898",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1493/production/_122076250_tv072594987-1.jpg",
+        "publishedAt": "2021-12-13T14:37:22.4924998Z",
+        "content": "Media caption, Watch how Kentucky residents are rebuilding their lives from \"hell on Earth\"\r\nUS rescue teams are racing to locate dozens of people after tornadoes devastated towns across Kentucky, wi… [+3770 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Covid boosters: Omicron spreading at \"phenomenal rate\" - Javid",
+        "description": "The health secretary says the UK will \"throw everything\" at accelerating booster jabs in response to the rapid spread.",
+        "url": "http://www.bbc.co.uk/news/live/uk-59632655",
+        "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.2.0/bbc_news_logo.png",
+        "publishedAt": "2021-12-13T11:52:44.8508946Z",
+        "content": "Early figures from South Africa, where the Omicron variant was first identified, suggest the new strain causes less serious illness and death than previous waves of the pandemic, an expert based in t… [+831 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Cyril Ramaphosa: South Africa president being treated for Covid",
+        "description": "Cyril Ramaphosa started feeling unwell on Sunday and has delegated all responsibilities to his deputy.",
+        "url": "http://www.bbc.co.uk/news/world-africa-59635277",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F4FD/production/_122071726_gettyimages-1336718294.jpg",
+        "publishedAt": "2021-12-13T10:22:21.7887484Z",
+        "content": "Image source, Getty Images\r\nImage caption, Mr Ramaphosa has delegated presidential responsibilities to his deputy\r\nSouth Africa President Cyril Ramaphosa is receiving treatment after testing positive… [+1566 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Hong Kong: Media tycoon Jimmy Lai gets 13 months jail for Tiananmen vigil",
+        "description": "Jimmy Lai, along with seven other activists, were given sentences ranging from four to 14 months.",
+        "url": "http://www.bbc.co.uk/news/world-asia-china-59632728",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7C6C/production/_122025813_976_gettyimages-1227984385.jpg",
+        "publishedAt": "2021-12-13T08:37:24.2846924Z",
+        "content": "Image source, Getty Images\r\nImage caption, Media tycoon Jimmy Lai was jailed earlier this year for taking part in pro-democracy protests in 2020\r\nHong Kong media mogul Jimmy Lai has been sentenced to… [+2777 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "France resists US challenge to its values",
+        "description": "The government is fighting back at what it sees as imported cultural ideas from the UK and US.",
+        "url": "http://www.bbc.co.uk/news/world-europe-59584125",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/131B8/production/_122046287_franceliberty.jpg",
+        "publishedAt": "2021-12-13T08:07:22.5126628Z",
+        "content": "By Hugh SchofieldBBC News, Paris\r\nImage source, Getty Images\r\nImage caption, Campaigners argue France is years behind the US on a number of human rights issues\r\nSix months ago, if asked what they und… [+5891 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Cargo ships collide in Baltic Sea off Sweden's coast",
+        "description": "A vessel registered in Denmark has capsized after hitting a British flagged ship.",
+        "url": "http://www.bbc.co.uk/news/world-europe-59633882",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/148B2/production/_111764148_breaking-promo.png",
+        "publishedAt": "2021-12-13T07:22:20.3548576Z",
+        "content": "Two cargo ships have collided in the Baltic Sea off the coast of Sweden causing one vessel to capsize, Swedish media report.\r\nA number of people are feared to be in the water and a major rescue opera… [+1185 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "And Just Like That: Peloton responds with parody ad after shares tumble",
+        "description": "The exercise equipment maker released an online parody after scene that sent its shares tumbling.",
+        "url": "http://www.bbc.co.uk/news/business-59632383",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16938/production/_122027429_cynthia-nixon-sarah-jessica-parker-kristin-davis.jpg",
+        "publishedAt": "2021-12-13T05:07:22.4451106Z",
+        "content": "Spoiler alert: This story contains a major plot development in the 'And Just Like That...' 'Sex and the City' reboot.\r\nFitness equipment maker Peloton has offered a humorous response after the brand … [+2556 chars]"
+      }
+    ]
+  }
