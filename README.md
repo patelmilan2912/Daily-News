@@ -1,3 +1,7 @@
+# Special Thanks to Newsapi.org
+
+Please note that this application is created using API available from https://newsapi.org/. I have used my API Key here, you can also generate your's for free by registering with NewsApi.org and use it for projects.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +9,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+Install Node Modules require to run the app by npm install in terminal.
 
 ### `npm start`
 

@@ -28,6 +28,7 @@ const News = (props) => {
     }
 
     useEffect(() => {
+        document.title = `Daily-News-${capitalizeFirstLetter(props.category)}-Category`
         updateNews();
         //eslint-disable-next-line
     }, [])
